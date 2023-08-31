@@ -1,5 +1,5 @@
 # movie-app
-a website built using react, spring boot and the IMDB API
+a website built using react, spring boot and the TMDB API
 
 
 # Authors
